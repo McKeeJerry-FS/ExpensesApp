@@ -1,0 +1,134 @@
+# ---- Operating System / Editor ----
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# ---- Visual Studio / .NET build outputs ----
+.vs/
+[Bb]in/
+[Oo]bj/
+[Ll]og*/
+Logs/
+[Tt]est[Rr]esults*/
+[Bb]uild/
+artifacts/
+x64/
+x86/
+[Aa][Rr][Mm]64?/
+[Aa][Rr][Mm]/
+
+# ---- User specific / temp files ----
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.psess
+*.vsp
+*.vspx
+*.pidb
+
+# ---- Compiler / linker intermediates ----
+*.ilk
+*.iobj
+*.ipdb
+*.obj
+*.pch
+*.pdb
+*.mdb
+*.log
+*.tlog
+*.cache
+
+# ---- NuGet ----
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+# (Keep package lock files for JS projects; do not ignore package-lock.json / yarn.lock / pnpm-lock.yaml)
+
+# ---- Entity Framework / Databases ----
+*.mdf
+*.ldf
+*.dbmdl
+*.bak
+
+# (Keep Migrations folder – do NOT ignore it)
+
+# ---- Configuration / Secrets (patterned) ----
+# Track base appsettings.json but ignore local / secret variants
+appsettings.*.Local.json
+appsettings.*.Secrets.json
+secrets.json
+*.secret.json
+
+# Root or project level environment files
+.env
+.env.*
+!.env.example
+
+# ---- Coverage / Reports ----
+coverage/
+*.lcov
+*.coverage
+*.coveragexml
+
+# ---- Crash / Debug logs ----
+*.stackdump
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---- Tools / Analyzers ----
+_ReSharper*/
+*.DotSettings.user
+StyleCop.Cache
+Generated\ Files/
+
+# ---- Node / Frontend (Angular client) ----
+Expenses.Client/node_modules/
+Expenses.Client/dist/
+Expenses.Client/.angular/
+Expenses.Client/.cache/
+Expenses.Client/tmp/
+Expenses.Client/.vite/
+Expenses.Client/webpack-stats.json
+Expenses.Client/.eslintcache
+Expenses.Client/.stylelintcache
+Expenses.Client/.tsbuildinfo
+Expenses.Client/*.tsbuildinfo
+Expenses.Client/coverage/
+
+# Include source maps only if desired
+# Expenses.Client/*.js.map
+
+# Angular / build artifacts (generic) ----
+node_modules/
+dist/
+.angular/
+.cache/
+.tmp/
+
+# ---- Misc ----
+*.tgz
+*.gz
+*.zip
+
+# ---- Ignore local docker compose overrides (optional) ----
+# docker-compose.override.yml
+# docker-compose.local.yml
+
+# ---- JetBrains Rider ----
+*.sln.iml
+
+# ---- Backup files ----
+*.bak~
+*.orig
+
+# End of .gitignore

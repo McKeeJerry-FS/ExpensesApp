@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\ExpensesApp\\Expenses.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2187B469-81DE-4C54-BC10-FE25DA2D3F69}|Expenses.API\\Expenses.API.csproj|d:\\expensesapp\\expenses.api\\expenses.api\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2187B469-81DE-4C54-BC10-FE25DA2D3F69}|Expenses.API\\Expenses.API.csproj|solutionrelative:expenses.api\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2187B469-81DE-4C54-BC10-FE25DA2D3F69}|Expenses.API\\Expenses.API.csproj|d:\\expensesapp\\expenses.api\\expenses.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2187B469-81DE-4C54-BC10-FE25DA2D3F69}|Expenses.API\\Expenses.API.csproj|solutionrelative:expenses.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2187B469-81DE-4C54-BC10-FE25DA2D3F69}|Expenses.API\\Expenses.API.csproj|d:\\expensesapp\\expenses.api\\expenses.api\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2187B469-81DE-4C54-BC10-FE25DA2D3F69}|Expenses.API\\Expenses.API.csproj|solutionrelative:expenses.api\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2187B469-81DE-4C54-BC10-FE25DA2D3F69}|Expenses.API\\Expenses.API.csproj|d:\\expensesapp\\expenses.api\\expenses.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2187B469-81DE-4C54-BC10-FE25DA2D3F69}|Expenses.API\\Expenses.API.csproj|solutionrelative:expenses.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2187B469-81DE-4C54-BC10-FE25DA2D3F69}|Expenses.API\\Expenses.API.csproj|d:\\expensesapp\\expenses.api\\expenses.api\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2187B469-81DE-4C54-BC10-FE25DA2D3F69}|Expenses.API\\Expenses.API.csproj|solutionrelative:expenses.api\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2187B469-81DE-4C54-BC10-FE25DA2D3F69}|Expenses.API\\Expenses.API.csproj|d:\\expensesapp\\expenses.api\\expenses.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2187B469-81DE-4C54-BC10-FE25DA2D3F69}|Expenses.API\\Expenses.API.csproj|solutionrelative:expenses.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2187B469-81DE-4C54-BC10-FE25DA2D3F69}|Expenses.API\\Expenses.API.csproj|d:\\expensesapp\\expenses.api\\expenses.api\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2187B469-81DE-4C54-BC10-FE25DA2D3F69}|Expenses.API\\Expenses.API.csproj|solutionrelative:expenses.api\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2187B469-81DE-4C54-BC10-FE25DA2D3F69}|Expenses.API\\Expenses.API.csproj|d:\\expensesapp\\expenses.api\\expenses.api\\services\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 156,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,20 +49,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ExpensesApp\\Expenses.API\\Expenses.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Expenses.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ExpensesApp\\Expenses.API\\Expenses.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Expenses.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-23T19:38:49.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ExpensesApp\\Expenses.API\\Expenses.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Expenses.API\\appsettings.json",
+              "ToolTip": "D:\\ExpensesApp\\Expenses.API\\Expenses.API\\appsettings.json",
+              "RelativeToolTip": "Expenses.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-23T19:38:41.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ExpensesApp\\Expenses.API\\Expenses.API\\Program.cs",
               "RelativeDocumentMoniker": "Expenses.API\\Program.cs",
               "ToolTip": "D:\\ExpensesApp\\Expenses.API\\Expenses.API\\Program.cs",
               "RelativeToolTip": "Expenses.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T18:16:35.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ITransactionService.cs",
               "DocumentMoniker": "D:\\ExpensesApp\\Expenses.API\\Expenses.API\\Services\\Interfaces\\ITransactionService.cs",
               "RelativeDocumentMoniker": "Expenses.API\\Services\\Interfaces\\ITransactionService.cs",
@@ -62,12 +95,11 @@
               "RelativeToolTip": "Expenses.API\\Services\\Interfaces\\ITransactionService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T18:00:28.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T18:00:28.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TransactionService.cs",
               "DocumentMoniker": "D:\\ExpensesApp\\Expenses.API\\Expenses.API\\Services\\TransactionService.cs",
               "RelativeDocumentMoniker": "Expenses.API\\Services\\TransactionService.cs",
@@ -75,28 +107,26 @@
               "RelativeToolTip": "Expenses.API\\Services\\TransactionService.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAEwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T17:50:44.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T17:50:44.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dbo.Transactions [Data]",
+              "DocumentIndex": 6,
+              "Title": "dbo.Transactions.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/TECHREALM_MSI_DESKTOP/ExpensesDb/True/SqlTable/dbo.Transactions.sql",
-              "ToolTip": "dbo.Transactions [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/TECHREALM_MSI_DESKTOP/ExpensesDb/True/SqlTable/dbo.Transactions.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-08-23T17:08:47.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T17:08:47.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TransactionsController.cs",
               "DocumentMoniker": "D:\\ExpensesApp\\Expenses.API\\Expenses.API\\Controllers\\TransactionsController.cs",
               "RelativeDocumentMoniker": "Expenses.API\\Controllers\\TransactionsController.cs",
               "ToolTip": "D:\\ExpensesApp\\Expenses.API\\Expenses.API\\Controllers\\TransactionsController.cs",
               "RelativeToolTip": "Expenses.API\\Controllers\\TransactionsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T16:48:30.359Z",
               "EditorCaption": ""
